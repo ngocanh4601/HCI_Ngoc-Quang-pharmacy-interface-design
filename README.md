@@ -1,1 +1,1 @@
-# HCI_Ngoc-Quang-pharmacy-interface-design
+# HCI_NgocQuang-pharmacy-interface-design
